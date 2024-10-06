@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0496-next-greater-element-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 <!---LeetCode Topics End-->
