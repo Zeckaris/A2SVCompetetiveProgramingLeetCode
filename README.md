@@ -45,9 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0338-counting-bits) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0191-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
