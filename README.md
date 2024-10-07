@@ -44,5 +44,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0191-number-of-1-bits) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
