@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0496-next-greater-element-i) |
 | [1039-find-the-town-judge](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1039-find-the-town-judge) |
 ## Bit Manipulation
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
