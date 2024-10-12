@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0412-fizz-buzz) |
 | [2722-prime-in-diagonal](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2722-prime-in-diagonal) |
 ## String
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0503-next-greater-element-ii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0496-next-greater-element-i) |
 | [1039-find-the-town-judge](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1039-find-the-town-judge) |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0389-find-the-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0268-missing-number) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -125,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
