@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0503-next-greater-element-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0496-next-greater-element-i) |
 | [1039-find-the-town-judge](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1039-find-the-town-judge) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -132,10 +135,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
