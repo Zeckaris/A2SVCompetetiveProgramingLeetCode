@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0506-relative-ranks) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0739-daily-temperatures) |
 | [0932-monotonic-array](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0932-monotonic-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0506-relative-ranks) |
 ## Counting
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
