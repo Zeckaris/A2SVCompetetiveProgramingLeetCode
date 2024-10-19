@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0036-valid-sudoku) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0217-contains-duplicate) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0242-valid-anagram) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0036-valid-sudoku) |
 | [2722-prime-in-diagonal](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2722-prime-in-diagonal) |
 ## Number Theory
 |  |
