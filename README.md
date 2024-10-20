@@ -160,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0506-relative-ranks) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
