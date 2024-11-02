@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0412-fizz-buzz) |
 | [0609-find-duplicate-file-in-system](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0609-find-duplicate-file-in-system) |
+| [0722-remove-comments](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0722-remove-comments) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Simulation
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0506-relative-ranks) |
 | [0609-find-duplicate-file-in-system](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0722-remove-comments](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0722-remove-comments) |
 | [0739-daily-temperatures](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0739-daily-temperatures) |
 | [0932-monotonic-array](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0932-monotonic-array) |
 | [1039-find-the-town-judge](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1039-find-the-town-judge) |
