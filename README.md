@@ -118,12 +118,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0404-sum-of-left-leaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
