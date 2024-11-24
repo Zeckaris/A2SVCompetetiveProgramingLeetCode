@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0412-fizz-buzz) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Heap (Priority Queue)
