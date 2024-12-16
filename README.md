@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -121,12 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0338-counting-bits) |
 ## Matrix
 |  |
