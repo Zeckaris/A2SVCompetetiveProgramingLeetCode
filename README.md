@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2465-shifting-letters-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2465-shifting-letters-ii) |
