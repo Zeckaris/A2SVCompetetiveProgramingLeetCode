@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2491-smallest-even-multiple) |
 | [2722-prime-in-diagonal](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2722-prime-in-diagonal) |
 ## String
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0932-monotonic-array) |
 | [1039-find-the-town-judge](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1039-find-the-town-judge) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0829-subdomain-visit-count) |
 | [1039-find-the-town-judge](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1039-find-the-town-judge) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Bit Manipulation
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2465-shifting-letters-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2465-shifting-letters-ii) |
 <!---LeetCode Topics End-->
