@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0969-number-of-recent-calls](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0969-number-of-recent-calls) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -275,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2465-shifting-letters-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2465-shifting-letters-ii) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
