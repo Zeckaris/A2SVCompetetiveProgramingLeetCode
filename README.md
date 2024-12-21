@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0169-majority-element) |
 | [0829-subdomain-visit-count](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0829-subdomain-visit-count) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Two Pointers
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0969-number-of-recent-calls](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0969-number-of-recent-calls) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -280,8 +283,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0969-number-of-recent-calls) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0969-number-of-recent-calls) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
