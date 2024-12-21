@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0829-subdomain-visit-count) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1720-crawler-log-folder](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1720-crawler-log-folder) |
 | [2465-shifting-letters-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1720-crawler-log-folder](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1720-crawler-log-folder) |
 | [2465-shifting-letters-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2465-shifting-letters-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2722-prime-in-diagonal](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2722-prime-in-diagonal) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1720-crawler-log-folder](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
