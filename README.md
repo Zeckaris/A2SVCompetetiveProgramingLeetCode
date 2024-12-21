@@ -33,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0829-subdomain-visit-count) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2465-shifting-letters-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2465-shifting-letters-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0412-fizz-buzz) |
+| [2470-removing-stars-from-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2470-removing-stars-from-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
