@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0412-fizz-buzz) |
+| [0983-validate-stack-sequences](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0983-validate-stack-sequences) |
 | [2470-removing-stars-from-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0829-subdomain-visit-count) |
 | [0917-boats-to-save-people](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0932-monotonic-array) |
+| [0983-validate-stack-sequences](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0983-validate-stack-sequences) |
 | [1039-find-the-town-judge](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1044-find-common-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0739-daily-temperatures) |
+| [0983-validate-stack-sequences](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0983-validate-stack-sequences) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2470-removing-stars-from-a-string) |
