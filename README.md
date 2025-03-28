@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1720-crawler-log-folder](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1720-crawler-log-folder) |
+| [2128-reverse-prefix-of-word](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2465-shifting-letters-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1720-crawler-log-folder) |
+| [2128-reverse-prefix-of-word](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2128-reverse-prefix-of-word](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Heap (Priority Queue)
 |  |
