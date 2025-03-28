@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0829-subdomain-visit-count) |
 | [0874-backspace-string-compare](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0874-backspace-string-compare) |
 | [1044-find-common-characters](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1044-find-common-characters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1720-crawler-log-folder](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1720-crawler-log-folder) |
 | [2465-shifting-letters-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2465-shifting-letters-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0983-validate-stack-sequences) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2470-removing-stars-from-a-string) |
