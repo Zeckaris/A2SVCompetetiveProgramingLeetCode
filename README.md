@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0609-find-duplicate-file-in-system) |
+| [0678-valid-parenthesis-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0722-remove-comments](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0722-remove-comments) |
 | [0768-partition-labels](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0829-subdomain-visit-count) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0739-daily-temperatures) |
 | [0983-validate-stack-sequences](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0983-validate-stack-sequences) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0338-counting-bits) |
+| [0678-valid-parenthesis-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
 |  |
 | ------- |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0917-boats-to-save-people) |
 ## Design
