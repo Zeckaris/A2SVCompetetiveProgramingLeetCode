@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0983-validate-stack-sequences) |
 | [2470-removing-stars-from-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Array
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0506-relative-ranks) |
 | [0609-find-duplicate-file-in-system](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0722-remove-comments](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0722-remove-comments) |
 | [0739-daily-temperatures](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0739-daily-temperatures) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0739-daily-temperatures) |
 | [0983-validate-stack-sequences](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0983-validate-stack-sequences) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
