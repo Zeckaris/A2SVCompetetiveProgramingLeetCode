@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0609-find-duplicate-file-in-system) |
+| [0647-palindromic-substrings](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0722-remove-comments](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0722-remove-comments) |
 | [0768-partition-labels](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0768-partition-labels) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0338-counting-bits) |
+| [0647-palindromic-substrings](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
