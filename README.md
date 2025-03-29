@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3379-score-of-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/3379-score-of-a-string) |
+| [3636-check-balanced-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/3636-check-balanced-string) |
 ## Simulation
 |  |
 | ------- |
