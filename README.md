@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
