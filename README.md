@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0722-remove-comments) |
 | [0742-to-lower-case](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0768-partition-labels) |
+| [0782-jewels-and-stones](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0782-jewels-and-stones) |
 | [0829-subdomain-visit-count](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0829-subdomain-visit-count) |
 | [0874-backspace-string-compare](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0874-backspace-string-compare) |
 | [1044-find-common-characters](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1044-find-common-characters) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0768-partition-labels](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0768-partition-labels) |
+| [0782-jewels-and-stones](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0782-jewels-and-stones) |
 | [0829-subdomain-visit-count](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0829-subdomain-visit-count) |
 | [1039-find-the-town-judge](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1044-find-common-characters) |
