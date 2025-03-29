@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2465-shifting-letters-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Simulation
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1547-destination-city) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
