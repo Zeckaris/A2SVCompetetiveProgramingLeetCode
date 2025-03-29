@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1720-crawler-log-folder](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1720-crawler-log-folder) |
 | [2465-shifting-letters-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2465-shifting-letters-ii) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2722-prime-in-diagonal](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2722-prime-in-diagonal) |
 ## Stack
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0633-sum-of-square-numbers](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0506-relative-ranks) |
 | [0917-boats-to-save-people](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
 |  |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0917-boats-to-save-people) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Design
 |  |
 | ------- |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2465-shifting-letters-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2465-shifting-letters-ii) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Queue
 |  |
 | ------- |
