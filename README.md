@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0500-keyboard-row](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0647-palindromic-substrings](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0647-palindromic-substrings) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0506-relative-ranks) |
 | [0609-find-duplicate-file-in-system](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0609-find-duplicate-file-in-system) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0768-partition-labels](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0768-partition-labels) |
