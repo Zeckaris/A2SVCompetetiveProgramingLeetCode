@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1547-destination-city](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1547-destination-city) |
 | [1720-crawler-log-folder](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1720-crawler-log-folder) |
 | [2128-reverse-prefix-of-word](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2128-reverse-prefix-of-word) |
