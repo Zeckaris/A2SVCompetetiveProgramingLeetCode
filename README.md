@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0782-jewels-and-stones) |
 | [0829-subdomain-visit-count](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0829-subdomain-visit-count) |
 | [0874-backspace-string-compare](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0874-backspace-string-compare) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0965-unique-email-addresses) |
 | [1044-find-common-characters](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0782-jewels-and-stones) |
 | [0829-subdomain-visit-count](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0829-subdomain-visit-count) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0965-unique-email-addresses) |
 | [1039-find-the-town-judge](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/1044-find-common-characters) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0169-majority-element) |
 | [0829-subdomain-visit-count](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0829-subdomain-visit-count) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Two Pointers
 |  |
