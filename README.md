@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3379-score-of-a-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/3379-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
