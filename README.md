@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0722-remove-comments](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0722-remove-comments) |
+| [0742-to-lower-case](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0829-subdomain-visit-count) |
 | [0874-backspace-string-compare](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0874-backspace-string-compare) |
