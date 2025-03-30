@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0043-multiply-strings](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0071-simplify-path) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0647-palindromic-substrings) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Zeckaris/A2SVCompetetiveProgramingLeetCode/tree/master/0088-merge-sorted-array) |
